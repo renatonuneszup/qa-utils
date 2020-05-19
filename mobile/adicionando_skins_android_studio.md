@@ -4,7 +4,7 @@
 
 Primeiramente, você já deve ter as skins no seu computador. 
 
-Para baixar as skins da Samsung, acessar [Samsung Developer](https://developer.samsung.com/galaxy-emulator-skin/overview.html)
+Para baixar as skins da Samsung, acessar [Samsung Developer](https://developer.samsung.com/galaxy-emulator-skin/overview.html) ou realizar o clone deste repositório e acessar o diretório mobile/skins.
 
 Após realizar o download, colocar as pastas das respectivas skins dentro no diretório abaixo:
 
